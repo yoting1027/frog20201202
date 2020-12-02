@@ -16,7 +16,7 @@ let classifier;
 let label = "listening";
 
 // Teachable Machine model URL:
-let soundModelURL = 'https://yoting1027.github.io/frog20201202/index.html/model.json';
+let soundModelURL = 'https://yoting1027.github.io/frog20201202/model.json';
 
 
 function preload() {
